@@ -1,2 +1,2 @@
 # nestJs-app
-The project written and compiled ih NestJs framework
+The project written and compiled in NestJs framework
